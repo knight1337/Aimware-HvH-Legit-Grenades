@@ -13,3 +13,4 @@ de_nuke (legit only)/
 de_overpass/
 de_train/
 de_vertigo
+  DIscord: fdp#1152
